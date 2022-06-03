@@ -1,4 +1,4 @@
-# My Portfolio
+# Todo List
 
 > This is a todo list project done using React
 
@@ -10,7 +10,6 @@
 ## Live Link
 
 - No live demo
-<!-- [view live demo](https://ericmahare.github.io/todo-list/) -->
 
 ## Getting Started
 
