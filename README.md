@@ -1,6 +1,6 @@
 # Todo List
 
-> This is a todo list project done using React
+> This is a todo list project done using React and css
 
 ## Built With
 
